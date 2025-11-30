@@ -1,0 +1,44 @@
+#myLabel {
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+    display: block;
+    text-align: center;
+    margin-bottom: 20px;
+}
+#btncontainer{
+    text-align: center;
+}
+#Generate {
+    padding: 10px 20px;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    background-color: rgb(49, 122, 122);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+   
+}
+#max{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    background-color: rgb(49, 122, 122);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+#min{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    text-align: center;
+    color: white;
+    background-color: rgb(49, 122, 122);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
